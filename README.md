@@ -1,11 +1,11 @@
 # ClariFi: Personal & Business Financial Management App
 
-## 📌 Overview
+## Overview
 ClariFi is a user-friendly financial tracking and goal-setting platform designed for both personal users and business teams. It provides an intuitive dashboard, AI-powered chat assistance, and powerful tools to manage expenses, set goals, and monitor financial progress.
 
 ---
 
-## 🎯 Key Features
+## Key Features
 - **Personal & Business Dashboards** – Tailored views for individual and team financial tracking.
 - **Goal Management** – Set, edit, and track financial goals with visual progress indicators.
 - **Expense & Income Tracking** – Categorized spending insights with visual charts.
@@ -15,7 +15,7 @@ ClariFi is a user-friendly financial tracking and goal-setting platform designed
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### System Requirements
 - Personal Computer
@@ -27,7 +27,7 @@ ClariFi is a user-friendly financial tracking and goal-setting platform designed
 ### Installation Steps
 1. Clone the repository:
    ```bash
-   git clone <repo-url>
+   git clone https://github.com/sleepyulloo/ClariFi
    ```
 
 2. Navigate to the frontend folder and install dependencies:
@@ -65,7 +65,7 @@ ClariFi is a user-friendly financial tracking and goal-setting platform designed
 
 ---
 
-## 📖 How to Use ClariFi
+## How to Use ClariFi
 
 ### 1. Creating an Account
 - Choose between **Personal** or **Business** account.
@@ -101,7 +101,7 @@ ClariFi is a user-friendly financial tracking and goal-setting platform designed
 
 ---
 
-## 👥 User Types
+##  User Types
 | Role            | Permissions                                                                 |
 |-----------------|-----------------------------------------------------------------------------|
 | Personal User   | Manage personal expenses, goals, and chat history                           |
@@ -110,19 +110,15 @@ ClariFi is a user-friendly financial tracking and goal-setting platform designed
 
 ---
 
-## 🔒 Security Notes
+##  Security Notes
 - Passwords must meet complexity requirements.
 - Chat deletion is permanent and restricted to admins.
 - Session tokens expire after 30 minutes.
 
----
-
-## 🛠️ Support
-For issues or questions, refer to the full [ClariFi User Guide](./ClariFi%20User%20Guide.pdf) or contact support through the platform.
 
 ---
 
-## 📄 License
+## License
 © Team Nova, 2025. All rights reserved.
 
 ---
