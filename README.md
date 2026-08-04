@@ -119,7 +119,7 @@ ClariFi is a user-friendly financial tracking and goal-setting platform designed
 ---
 
 ## License
-© Team Nova, 2025. All rights reserved.
+© A-Mohammed, 2025. All rights reserved.
 
 ---
 
